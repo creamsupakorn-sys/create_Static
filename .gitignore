@@ -1,0 +1,16 @@
+ # Dependencies
+node_modules/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
